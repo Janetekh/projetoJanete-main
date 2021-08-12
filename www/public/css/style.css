@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(207, 219, 252);
+    margin: 30;
+    
+}
+h1{
+    text-align:justify;
+
+}
+.class{
+    background-color: rgb(207, 219, 252);
+}
+th{
+    text-align: center;
+    padding-top: 20px;
+    background-color: rgb(207, 219, 252);
+
+}
+td{
+    background-color:rgb(207, 219, 252);
+    padding-top: 20px;
+    text-align: center;
+
+}
+.btn-primary{
+    text-align: center;
+}
+table {
+    border-collapse: collapse; 
+    margin-left: 20px;
+    margin-right: 20px;
+    border:thin solid black
+    caption-side:bottom;
+
+  }
